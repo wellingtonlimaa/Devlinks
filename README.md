@@ -1,32 +1,25 @@
-<h1 align="center"> DevLinks </h1>
+# 🔗 DevLinks
 
-<img src="./assets/print.png">
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
-
-## 💻 Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+DevLinks é um **agregador de links** que funciona como um cartão de visitas online — ideal para compartilhar seus principais links (portfólio, redes sociais, blog etc.) de maneira simples, elegante e acessível.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+## 🧩 Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript (vanilla)  
+- Git & GitHub  
+- Figma (para layout/design)  
+
+---
+
+## 📂 Estrutura do projeto
+
+![alt text](./assets/image.png)
